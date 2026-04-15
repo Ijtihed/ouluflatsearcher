@@ -25,7 +25,7 @@ RETRY_WAIT = 5
 
 DEFAULT_INTERVAL = 900  # 15 minutes
 
-MAX_RENT = 500
+MAX_RENT = 550
 ALLOWED_TYPES = ["studio", "family"]
 
 TELEGRAM_BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "")
