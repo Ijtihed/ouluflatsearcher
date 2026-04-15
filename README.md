@@ -2,9 +2,9 @@
 
 Scrapes the [PSOAS Flat Exchange](https://www.psoas.fi/en/flat-exchange/) page every hour and sends me a Telegram message when a new affordable listing appears.
 
-## Why
+## Why scrape this random website
 
-I needed cheap short-term housing in Oulu for an internship. PSOAS tenants post summer sublets on their flat exchange page, but listings disappear fast. This bot watches the page so I don't have to.
+I needed cheap short-term housing in Oulu for an internship. PSOAS tenants post summer sublets on their flat exchange page, but listings disappear super quickly. This bot watches the page so I don't have to.
 
 ## How it works
 
